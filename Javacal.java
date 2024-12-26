@@ -1,7 +1,7 @@
 import java.util.*;
 public class Javacal{
     public static void main(String args[]){
-        System.out.println("push and pull all code to github!");
+        System.out.println("push and pull all new code to github!");
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter Input value of a=");
         int a=sc.nextInt();
